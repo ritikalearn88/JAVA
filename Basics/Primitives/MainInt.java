@@ -3,7 +3,7 @@ public class MainInt{
 public static void main(String[] args){
 
     int temp=45;    //current temperature is 45
-    System.out.println(temp);   //printing the current temperature
+    System.out.println("Current Temperature in Mumbai: " + temp);   //printing the current temperature
 
 
 
