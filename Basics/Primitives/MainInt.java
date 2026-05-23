@@ -38,90 +38,90 @@ public static void main(String[] args){
      //int panCardNo=4566786546;  we can't store pan card num , it stores 10 digits
 
 
-     int luckyNumber=88;
-     System.out.println(luckyNumber);
+     int luckyNumber=88;  //its my lucky number
+     System.out.println(luckyNumber); // we are printing lucky number
 
 
-     int houseNumber=835;
-     System.out.println(houseNumber);
+     int houseNumber=835;  //its my house number
+     System.out.println(houseNumber);  //printing the house number
 
 
      //int time=4:56;  invalid AssignmentOperators 
 
 
-    int date=15;
-    System.out.println(date);
+    int date=23;   //current date
+    System.out.println(date);   //printing the current date
 
 
-    int bankAccNumber=787345567;
-    System.out.println(bankAccNumber);
+    int bankAccNumber=787345567;  //Bank Account Number (note: range 9 to 18 digit numbers)
+    System.out.println(bankAccNumber);  //printing the banl account number
 
     
-    int pageNumber=49;
-    System.out.println(pageNumber);
+    int pageNumber=49;  //page number of a random book
+    System.out.println(pageNumber);  //printing a page number
 
 
-    int recieptNumber=1984;
-    System.out.println(recieptNumber);
+    int recieptNumber=1984;  // its a reciept number of anything(fees,etc)
+    System.out.println(recieptNumber);  //printing receipt numbers
 
 
-    int specsNumber=-2;
-    System.out.println(specsNumber);
+    int specsNumber=-2;  //spectacle numbers (it can be in positive and negative)
+    System.out.println(specsNumber);  //printing specs number
 
 
-    int billNumber=3330;
-    System.out.println(billNumber);
+    int billNumber=3330;  //its a bill number of any random thing
+    System.out.println(billNumber);  //printing bill number
 
 
-    int roomNumber=07;
-    System.out.println(roomNumber);
+    int roomNumber=07;  //its a room number 
+    System.out.println(roomNumber);  //printing room number
 
 
-    int password=6032007;
-    System.out.println(password);
+    int password=6032007;   // it can be password of anything
+    System.out.println(password);  //printing the password
 
-    int fileNumber=1;
-    System.out.println(fileNumber);
-
-
-    int score=132;
-    System.out.println(score);
+    int fileNumber=1;  // its filenumber in a multiple files
+    System.out.println(fileNumber);  //printing file number
 
 
-    int marks=90;
-    System.out.println(marks);
+    int score=132;  //score of any random things (sports,studies,etc)
+    System.out.println(score);  //printing the score
 
 
-    int year=2007;
-    System.out.println(year);
+    int marks=90;  // marks it can be of particular subject
+    System.out.println(marks);  //printing marks
 
 
-    int memoryStorage=64;
-    System.out.println(memoryStorage);
+    int year=2026;  // current year
+    System.out.println(year);   //printing the current year
 
 
-    int numberOfDays=31;
-    System.out.println(numberOfDays);
+    int memoryStorage=64;  // storing the memory
+    System.out.println(memoryStorage);  //printing the memory storage
 
 
-    int numberOfEmails=2000;
-    System.out.println(numberOfEmails);
+    int numberOfDays=31;  // number of days in one month
+    System.out.println(numberOfDays);  // printing the number of days 
 
 
-    int unreadMessages=48;
-    System.out.println(unreadMessages);
+    int numberOfEmails=2000;  // its a number of emails
+    System.out.println(numberOfEmails);  //printing the number of emails
 
 
-    int inbox=76;
-    System.out.println(inbox);
+    int unreadMessages=48;   // this are the unread messages of any user
+    System.out.println(unreadMessages);   //printing the unread messages
 
 
-    int numberOfsentItems=23;
-    System.out.println(numberOfsentItems);
+    int inbox=76;  // An inbox of messanger
+    System.out.println(inbox);  //printing the inbox 
 
 
-    int numberOfDeletedItems=65;
-    System.out.println(numberOfDeletedItems);
+    int numberOfsentItems=23;  // number of sent items by user
+    System.out.println(numberOfsentItems);   //printing the number of sent items
+
+
+    int numberOfDeletedItems=65;  // number of deleted items by user
+    System.out.println(numberOfDeletedItems);  //printing the number of deleted items by user 
 
 }
 }
